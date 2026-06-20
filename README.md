@@ -124,7 +124,7 @@ Selected highlights from the original 28-day SOC career launch system, the found
 
 ## 🎓 Certifications
 
-- **ISC2 Certified in Cybersecurity (CC)** — Earned
+- **ISC2 Certified in Cybersecurity (CC)** Earned
 - **CompTIA Security+ (SY0-701)** In Progress, target August 2026
 
 ---
