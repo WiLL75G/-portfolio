@@ -1,7 +1,7 @@
 # 👾 William Gokah — SOC Analyst Portfolio
 
 > **Blue-team defender** building hands-on experience in threat detection, incident response, and SIEM operations.
-> 28+ documented projects. Every one shows the work, the reasoning, and the impact — not just a description of it.
+> 28+ documented projects. Every one shows the work, the reasoning, and the impact not just a description of it.
 
 [![Twitter](https://img.shields.io/badge/@WilliamInCyber-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/WilliamInCyber)
 [![GitHub](https://img.shields.io/badge/WiLL75G-181717?style=flat&logo=github&logoColor=white)](https://github.com/WiLL75G)
