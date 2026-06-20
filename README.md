@@ -105,7 +105,7 @@ Selected highlights from the original 28-day SOC career launch system, the found
 - **Phishing Email Forensics** Header and payload analysis tracing sender spoofing and malicious link infrastructure
 - **DNS Tunneling Detection** Covert data exfiltration over DNS identified through traffic pattern analysis
 - **Azure Sentinel Brute-Force Lab** — Early Sentinel detection build, the foundation for the later 8-day Sentinel sprint
-- **SOC IOC Tracker** — Centralized IOC tracker built for analyst handoff and reporting
+- **SOC IOC Tracker** Centralized IOC tracker built for analyst handoff and reporting
 
 ---
 
