@@ -28,7 +28,7 @@ Full Sentinel sprint covering connector configuration, analytics rule migration 
 | | |
 |---|---|
 | **Tools** | Microsoft Sentinel · Azure · KQL · MITRE ATT&CK |
-| **Impact** | Confirmed SSH brute-force compromise (88 fails / 8 successes) — contained via UFW |
+| **Impact** | Confirmed SSH brute-force compromise (88 fails / 8 successes) contained via UFW |
 | **Deliverable** | 8-day repo, flagship PDF report, job-ready package (resume + 15-MSSP outreach tracker) |
 
 ---
@@ -88,7 +88,7 @@ Modular Bash live-response collector for Linux incident response, built on a Sun
 ### 📁 [SigmaHQ Detection Rule Contribution](https://github.com/SigmaHQ/sigma)
 **Open Source Contribution**
 
-Verified merged contribution to SigmaHQ — the community standard for SIEM-agnostic detection logic.
+Verified merged contribution to SigmaHQ the community standard for SIEM-agnostic detection logic.
 
 | | |
 |---|---|
@@ -101,9 +101,9 @@ Verified merged contribution to SigmaHQ — the community standard for SIEM-agno
 
 Selected highlights from the original 28-day SOC career launch system, the foundation everything above was built on.
 
-- **SSH Brute-Force Detection** — Hydra-driven brute-force simulation detected via Splunk SPL, mapped to MITRE T1110
-- **Phishing Email Forensics** — Header and payload analysis tracing sender spoofing and malicious link infrastructure
-- **DNS Tunneling Detection** — Covert data exfiltration over DNS identified through traffic pattern analysis
+- **SSH Brute-Force Detection** Hydra-driven brute-force simulation detected via Splunk SPL, mapped to MITRE T1110
+- **Phishing Email Forensics** Header and payload analysis tracing sender spoofing and malicious link infrastructure
+- **DNS Tunneling Detection** Covert data exfiltration over DNS identified through traffic pattern analysis
 - **Azure Sentinel Brute-Force Lab** — Early Sentinel detection build, the foundation for the later 8-day Sentinel sprint
 - **SOC IOC Tracker** — Centralized IOC tracker built for analyst handoff and reporting
 
@@ -125,7 +125,7 @@ Selected highlights from the original 28-day SOC career launch system, the found
 ## 🎓 Certifications
 
 - **ISC2 Certified in Cybersecurity (CC)** — Earned
-- **CompTIA Security+ (SY0-701)** — In Progress, target August 2026
+- **CompTIA Security+ (SY0-701)** In Progress, target August 2026
 
 ---
 
@@ -142,20 +142,20 @@ Title → Incident Summary → Executive Summary → Affected System
 
 Four standing principles:
 
-1. **Results, not tasks** — every report quantifies impact, not just activity
-2. **Show the actual work** — full reports, queries, and PDFs live in the repo
-3. **Explain the reasoning** — methodology and analyst insight, not just outcomes
-4. **Build in public** — every project ships with a LinkedIn post + X thread
+1. **Results, not tasks** every report quantifies impact, not just activity
+2. **Show the actual work** full reports, queries, and PDFs live in the repo
+3. **Explain the reasoning** methodology and analyst insight, not just outcomes
+4. **Build in public** every project ships with a LinkedIn post + X thread
 
 ---
 
 ## 📊 Currently Working On
 
 - [ ] Wazuh Monitoring Lab (Lab 1 of soc-detection-engineering-suite)
-- [ ] Linux Triage Toolkit — weekly module builds
+- [ ] Linux Triage Toolkit weekly module builds
 - [ ] PowerShell SOC Detection Suite (5-day scope, awaiting execution)
 - [ ] SOC Gap-Closer Suite (false-positive tuning, phishing triage at volume, playbooks)
-- [ ] "Recon for Defenders" content series — completed, archived
+- [ ] "Recon for Defenders" content series completed, archived
 
 ---
 
@@ -163,8 +163,8 @@ Four standing principles:
 
 - **Twitter / X**: [@WilliamInCyber](https://twitter.com/WilliamInCyber)
 - **GitHub**: [WiLL75G](https://github.com/WiLL75G)
-- Open to **SOC Analyst Tier 1 / Tier 2** roles — remote, UK / UAE / Australia
+- Open to **SOC Analyst Tier 1 / Tier 2** roles remote, UK / UAE / Australia
 
 ---
 
-*Portfolio updated continuously — documented as I build.*
+*Portfolio updated continuously documented as I build.*
