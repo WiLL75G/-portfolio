@@ -1,4 +1,4 @@
-# 👾 William Gokah — SOC Analyst Portfolio
+# William Gokah SOC Analyst Portfolio
 
 > **Blue-team defender** building hands-on experience in threat detection, incident response, and SIEM operations.
 > 28+ documented projects. Every one shows the work, the reasoning, and the impact not just a description of it.
@@ -10,7 +10,7 @@
 
 ---
 
-## 🔍 About
+## About
 
 Aspiring SOC Analyst (Tier 1/2) targeting remote MSSP roles in the UK, UAE, and Australia. ISC2 Certified in Cybersecurity (CC), Security+ in progress (target Aug 2026).
 
@@ -18,7 +18,7 @@ Home lab: Splunk on macOS, UTM-based Kali/Ubuntu/Windows 11 lab, plus a Proxmox 
 
 ---
 
-## 🗂️ Flagship Projects
+## Flagship Projects
 
 ### 📁 [Microsoft Sentinel SOC Lab Setup](https://github.com/WiLL75G/sentinel-soc-lab-setup)
 **8-Day Sprint · Cloud SIEM**
@@ -33,7 +33,7 @@ Full Sentinel sprint covering connector configuration, analytics rule migration 
 
 ---
 
-### 📁 [SOC AI-Era Detection Lab](https://github.com/WiLL75G/soc-ai-era-detection-lab)
+### [SOC AI-Era Detection Lab](https://github.com/WiLL75G/soc-ai-era-detection-lab)
 **4-Day Lab · Emerging Threats**
 
 Detection engineering for AI-native threats: non-human identity (NHI) detection, prompt injection analysis, MCP threat modeling via STRIDE, and a correlated kill-chain incident report tying all four days together.
@@ -46,7 +46,7 @@ Detection engineering for AI-native threats: non-human identity (NHI) detection,
 
 ---
 
-### 📁 [CorpOps Shell Suite](https://github.com/WiLL75G/CorpOps-Shell-Suite)
+### [CorpOps Shell Suite](https://github.com/WiLL75G/CorpOps-Shell-Suite)
 **8 Projects · Tier 1 Incident Response**
 
 Eight Tier 1 incident investigations across a fictional Nexus Corp environment: Nmap detection, WebSift, Tookie-OSINT, user enumeration, IP threat intel enrichment, Whois spoofing detection, EternalView recon mapping, and Python SMTP phishing header analysis.
@@ -59,7 +59,7 @@ Eight Tier 1 incident investigations across a fictional Nexus Corp environment: 
 
 ---
 
-### 📁 [Wazuh Monitoring Lab](https://github.com/WiLL75G/soc-detection-engineering-suite) *(In Progress)*
+### [Wazuh Monitoring Lab](https://github.com/WiLL75G/soc-detection-engineering-suite) *(In Progress)*
 **Lab 1 of 3 · Detection Engineering Suite**
 
 First lab in a three-part suite (Wazuh → Ransomware Behavioral Detection → Cloud Misconfig Auto-Remediation) scoped specifically to close gaps not covered by the existing 28-day portfolio.
@@ -72,7 +72,7 @@ First lab in a three-part suite (Wazuh → Ransomware Behavioral Detection → C
 
 ---
 
-### 📁 [Linux Triage Toolkit](https://github.com/WiLL75G/linux-triage-toolkit) *(In Progress)*
+### [Linux Triage Toolkit](https://github.com/WiLL75G/linux-triage-toolkit) *(In Progress)*
 **7-Week Build · Live Response**
 
 Modular Bash live-response collector for Linux incident response, built on a Sunday-only weekly cadence.
@@ -85,7 +85,7 @@ Modular Bash live-response collector for Linux incident response, built on a Sun
 
 ---
 
-### 📁 [SigmaHQ Detection Rule Contribution](https://github.com/SigmaHQ/sigma)
+### [SigmaHQ Detection Rule Contribution](https://github.com/SigmaHQ/sigma)
 **Open Source Contribution**
 
 Verified merged contribution to SigmaHQ the community standard for SIEM-agnostic detection logic.
@@ -97,7 +97,7 @@ Verified merged contribution to SigmaHQ the community standard for SIEM-agnostic
 
 ---
 
-## 🌱 28-Day Foundation, Best of
+## 28-Day Foundation, Best of
 
 Selected highlights from the original 28-day SOC career launch system, the foundation everything above was built on.
 
@@ -109,7 +109,7 @@ Selected highlights from the original 28-day SOC career launch system, the found
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 | Domain | Tools & Technologies |
 |--------|---------------------|
@@ -122,14 +122,14 @@ Selected highlights from the original 28-day SOC career launch system, the found
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 - **ISC2 Certified in Cybersecurity (CC)** Earned
 - **CompTIA Security+ (SY0-701)** In Progress, target August 2026
 
 ---
 
-## 📐 How I Document Work
+## How I Document Work
 
 Every incident report in this portfolio follows a locked structure:
 
@@ -149,7 +149,7 @@ Four standing principles:
 
 ---
 
-## 📊 Currently Working On
+## Currently Working On
 
 - [ ] Wazuh Monitoring Lab (Lab 1 of soc-detection-engineering-suite)
 - [ ] Linux Triage Toolkit weekly module builds
@@ -159,7 +159,7 @@ Four standing principles:
 
 ---
 
-## 🤝 Connect
+## Connect
 
 - **Twitter / X**: [@WilliamInCyber](https://twitter.com/WilliamInCyber)
 - **GitHub**: [WiLL75G](https://github.com/WiLL75G)
